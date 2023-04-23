@@ -276,12 +276,39 @@ cierta parte la saque de ABOUT ME hasta H2*/
     right: -15px;
     font-size: 14px;
 }
-/* aqui si no se que hace xd */
-.javascript{
+/*Agregacion de clases dinamicamente*/
+.skills .skill .javascript{
     width: 0%;
     animation: 2s javascript forwards;
 }
 @keyframes javascript{
+    0%{width: 0%;}
+    100%{width:75%;}
+}
+
+.skills .skill .HTMLCSS{
+    width: 0%;
+    animation: 2s HTMLCSS forwards;
+}
+@keyframes HTMLCSS{
+    0%{width: 0%;}
+    100%{width:75%;}
+}
+
+.skills .skill .Python{
+    width: 0%;
+    animation: 2s Python forwards;
+}
+@keyframes Python{
+    0%{width: 0%;}
+    100%{width:75%;}
+}
+
+.skills .skill .Inventor{
+    width: 0%;
+    animation: 2s Inventor forwards;
+}
+@keyframes Inventor{
     0%{width: 0%;}
     100%{width:75%;}
 }
