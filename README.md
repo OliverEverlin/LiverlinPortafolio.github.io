@@ -5,7 +5,8 @@ https://www.youtube.com/watch?v=2s19KJq49rQ&ab_channel=C%C3%B3digoWeb
 https://github.com/codigowebmp/portfolio-nick
 
 ## Estado de avance
-me quede en el min 59
+me quede en el min 1:27:35 "FOOTER"
+NOTA: Ponerle imagenes en medida y actualizar data y boton de enviar consulta
 añadí el about me y ahora estará modificando para las barras de progreso 
 
 
