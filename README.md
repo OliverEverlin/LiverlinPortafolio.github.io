@@ -8,9 +8,13 @@ https://github.com/codigowebmp/portfolio-nick
 https://fontawesome.com/
 
 ## Estado de avance
-me quede en el min 1:27:35 "FOOTER"
+Terminado!
+- Ponerle mis datos reales y acomodar el tamaño de las paginas
+- Practicar el diseño con flooter
+- Elegir los colores de mi pagina
+- Si ya estoy pro lo subo a un servidor local con python
+
 NOTA: Ponerle imagenes en medida y actualizar data y boton de enviar consulta
-añadí el about me y ahora estará modificando para las barras de progreso 
 
 
 ## Otros links para aprender
