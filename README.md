@@ -16,8 +16,20 @@ Terminado!
 
 NOTA: Ponerle imagenes en medida y actualizar data y boton de enviar consulta
 
+## Teoría revisada
+### CSS
+Aprende CSS en 15 Minutos  
+https://youtu.be/3yM5uXp-T_0
+Documentación
+https://developer.mozilla.org/es/docs/Web/CSS
+### HTML
+Aprende HTML en 15 Minutos 
+https://youtu.be/mNbnV3aN3KA
+Documentación
+https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
 
-## Otros links para aprender
+
+## Otros links para practicar
 Otros 5 proyectos de html y css para poder practicar más
 https://youtu.be/AXPASVeX74o
 

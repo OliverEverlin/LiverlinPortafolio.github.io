@@ -283,7 +283,7 @@ cierta parte la saque de ABOUT ME hasta H2*/
 }
 @keyframes javascript{
     0%{width: 0%;}
-    100%{width:75%;}
+    100%{width:25%;}
 }
 
 .skills .skill .HTMLCSS{
@@ -292,7 +292,7 @@ cierta parte la saque de ABOUT ME hasta H2*/
 }
 @keyframes HTMLCSS{
     0%{width: 0%;}
-    100%{width: 75%;}
+    100%{width: 50%;}
 }
 
 .skills .skill .Python{
@@ -301,7 +301,7 @@ cierta parte la saque de ABOUT ME hasta H2*/
 }
 @keyframes Python{
     0%{width: 0%;}
-    100%{width:75%;}
+    100%{width:50%;}
 }
 
 .skills .skill .Inventor{
@@ -357,6 +357,15 @@ cierta parte la saque de ABOUT ME hasta H2*/
     0%{width: 0%;}
     100%{width:50%;}
 }
+
+/* .skills .skill .Dedicacion{
+    width: 0%;
+    animation: 2s Dedicacion forwards;
+}
+@keyframes Dedicacion{
+    0%{width: 0%;}
+    100%{width:70%;}
+} */
 
 /*SECCION CURRICULUM*/
 .curriculum{
