@@ -283,7 +283,7 @@ cierta parte la saque de ABOUT ME hasta H2*/
 }
 @keyframes javascript{
     0%{width: 0%;}
-    100%{width:95%;}
+    100%{width:75%;}
 }
 
 .skills .skill .HTMLCSS{
@@ -292,7 +292,7 @@ cierta parte la saque de ABOUT ME hasta H2*/
 }
 @keyframes HTMLCSS{
     0%{width: 0%;}
-    100%{width:95%;}
+    100%{width: 75%;}
 }
 
 .skills .skill .Python{
@@ -301,7 +301,7 @@ cierta parte la saque de ABOUT ME hasta H2*/
 }
 @keyframes Python{
     0%{width: 0%;}
-    100%{width:95%;}
+    100%{width:75%;}
 }
 
 .skills .skill .Inventor{
@@ -310,7 +310,7 @@ cierta parte la saque de ABOUT ME hasta H2*/
 }
 @keyframes Inventor{
     0%{width: 0%;}
-    100%{width:95%;}
+    100%{width:50%;}
 }
 
 .skills .skill .Autocad{
@@ -328,7 +328,34 @@ cierta parte la saque de ABOUT ME hasta H2*/
 }
 @keyframes Electrónica{
     0%{width: 0%;}
-    100%{width:95%;}
+    100%{width:75%;}
+}
+
+.skills .skill .ProjectManagement{
+    width: 0%;
+    animation: 2s ProjectManagement forwards;
+}
+@keyframes ProjectManagement{
+    0%{width: 0%;}
+    100%{width:50%;}
+}
+
+.skills .skill .Creatividad{
+    width: 0%;
+    animation: 2s Creatividad forwards;
+}
+@keyframes Creatividad{
+    0%{width: 0%;}
+    100%{width:50%;}
+}
+
+.skills .skill .Comunicacion{
+    width: 0%;
+    animation: 2s Comunicacion forwards;
+}
+@keyframes Comunicacion{
+    0%{width: 0%;}
+    100%{width:50%;}
 }
 
 /*SECCION CURRICULUM*/
@@ -350,7 +377,7 @@ cierta parte la saque de ABOUT ME hasta H2*/
     padding: 20px 0;
 }
 /*defino fila como flex para ponerla lado 
-a lado y que sea responsive*/
+a lado */
 .curriculum .fila{
     display:flex;
     justify-content: space-between;

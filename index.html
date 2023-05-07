@@ -24,12 +24,12 @@
             </div>
             <nav id="nav">
                 <ul>
-                    <li><a href="#inicio">INICIO</a></li>
-                    <li><a href="#ABOUTME">SOBRE MI</a></li>
-                    <li><a href="#skills">SKILLS</a></li>
-                    <li><a href="#curriculum">CURRICULUM</a></li>
-                    <li><a href="#portfolio">PORTFOLIO</a></li>
-                    <li><a href="#contacto">CONTACTO</a></li>
+                    <li><a href="#inicio" onclick="seleccionar()">INICIO</a></li>
+                    <li><a href="#ABOUTME" onclick="seleccionar()">SOBRE MI</a></li>
+                    <li><a href="#skills" onclick="seleccionar()">SKILLS</a></li>
+                    <li><a href="#curriculum" onclick="seleccionar()">CURRICULUM</a></li>
+                    <li><a href="#portfolio" onclick="seleccionar()">PORTFOLIO</a></li>
+                    <li><a href="#contacto" onclick="seleccionar()">CONTACTO</a></li>
                 </ul>
             </nav>
             <div class="nav-responsive" onclick="mostrarOcultarMenu()">
@@ -134,7 +134,7 @@
         </div>
     </section>
 
-    <!--SECCION SKIKLLS-->
+    <!--SECCION SKILLS-->
     <section class="skills" id="skills">
         <div class="contenido-seccion">
             <h2>Skills</h2>
@@ -142,6 +142,7 @@
                 <!--Habilidades tecnicas-->
                 <div class="col">
                     <h3>Technical skills</h3>
+
                     <div class="skill">
                         <span>Javascript</span>
                         <!--Esto me define una maquina -->
@@ -202,8 +203,9 @@
                 <!--Habilidades Profesionales-->
                 <div class= "col">
                     <h3>Profesional Skills</h3>
+
                     <div class="skill">
-                        <span>Project Management</span>
+                        <span>ProjectManagement</span>
                         <div class="barra-skill">
                             <div class="progreso">
                                 <span>50%</span>
@@ -417,6 +419,6 @@
             <a href="#"><i class="fa-brands fa-linkedin"></i></a>
         </div>
     </footer>
-
+    <script src="script.js"></script>
 </body>
 </html>
